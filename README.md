@@ -4,3 +4,9 @@ It a minimalist and fast web application to provide communication over the Inter
 User can have multiple group chats over 400 users in a group at the same time.
 
 It uses latest technolgies like React, Express, Nodejs and Socket.io for quick and responsive messages. 
+
+### Technologies
+
+Front-end: ReactJs
+
+Back-end: NodeJs
